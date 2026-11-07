@@ -1,0 +1,6 @@
+{
+  "name": "Image to Video AI Motion Converter",
+  "description": "An interactive studio that uses AI flow analysis, manual vector pens, and seamless dual-phase texture warping to convert static photos into fluid high-fps motion videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
